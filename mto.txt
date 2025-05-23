@@ -2,64 +2,64 @@ Name	Order	Line	Rel	 Part	Desc	Order Date	OrderQty	Job Num	Start Date	"MFG
 Complete"	ShipBy	Max Op	Op Desc	ActiveOp	Op Desc	Last Labor Date	Op Start Date	"Open 
 Value"	Credit Hold	Credit OvRd	Order Held
 Full Cycle Waste Recovery	9428587	1	1	9426587-1	Inspect & Repair Drum	5/16/25	1	9428587-1-1	5/19/25	5/18/25	5/19/25			5	Assemble -Per Print (Heavy)		5/19/25	0.00	X	X	
-Press Automation	9428558	1	1	BE1040-240000	BELT E8/2 UO/U4 GSTR 5.625 x 240.00 SLPC FOR S/O 9370313-1	5/15/25	1	9428558-1-1	5/19/25	5/19/25	5/20/25			10	Belt - Cut / Assemble			688.50	X	X	
-Press Automation	9428558	2	1	BE1040-155000	"BELT 5.625""E8/2 UO/U4GSTR     
-SLPC"	5/15/25	1	9428558-2-1	5/19/25	5/19/25	5/20/25			10	Belt - Cut / Assemble			588.60	X	X	
-LyondellBasell	9428591	1	1	PIM-3-NE-F	PIM W/ 3" FITTINGS, FOOD GRADE	5/16/25	1	9428591-1-1	5/22/25	5/20/25	5/21/25			10	Issue -Components			6753.00	X	X	
-Milacron LLC	9425796	1	1	118184-SF	"FF4800PLS                     
-STD 8"" HOUSING WITH SLIDEGATE"	2/25/25	1	9425796-1-1	5/22/25	5/21/25	5/22/25	60	FF Production Work Cell	70	Shipping - Light	5/22/25		1044.93	X	X	
-Milacron LLC	9426302	1	1	118184-SF	"FF4800PLS                     
-STD 8"" HOUSING WITH SLIDEGATE"	3/11/25	2	9426302-1-1	5/19/25	5/21/25	5/22/25	50	Water-jet Cut Part Per Print	60	FF Production Work Cell	5/19/25	5/20/25	2089.86	X	X	
+LyondellBasell	9428591	1	1	PIM-3-NE-F	PIM W/ 3" FITTINGS, FOOD GRADE	5/16/25	1	9428591-1-1	5/30/25	5/20/25	5/21/25			10	Issue -Components			6753.00	X	X	
 ADM Agri-Industries Company	9426876	1	1	CFM-5-NE-SC-F	CENTER FLOW MAG  MAN SELF CLEAN  *FOOD GRADE*	3/27/25	2	9426876-1-1		5/5/25	5/22/25	140	Shipping - Light					20822.00			
-INOAC Exterior Systems	9427495	1	1	9427495-1	FF8-SF-D  2" Dump Tube  Flanges same as stock	4/14/25	1	9427495-1-1	5/20/25	5/21/25	5/22/25	40	Form -Part Per Print (Trumpf)	50	FF Production Work Cell	5/20/25	5/20/25	1415.00	X	X	
-C.E.M. Corp.	9427541	1	1	930511-1	NEB3594 SPECIAL MAGNETIZATION	4/15/25	125	9427541-1-1	5/21/25	5/20/25	5/22/25	20	Inspect -Final	30	Shipping - Light	5/13/25	5/13/25	3937.50			
-J L Clark	9428028	1	1	PMN5008TMXU	Plate Magnet	4/30/25	1	9428028-1-1	5/22/25	5/21/25	5/22/25	90	Assemble -Per Print (Heavy)	100	Shipping - Light	5/21/25		2573.00	X	X	
-Vismec America Inc	9428190	1	1	9428190-1	LOW PROFILE DRAWER MAGNET	5/6/25	2	9428190-1-1	5/16/25	5/21/25	5/22/25	30	Form -Part Per Print (Trumpf)	20	Laser Cut - Part Per Print	5/21/25	5/21/25	2159.00			
 Clasen Quality Chocolate	9428321	1	1	9378555-1-R1	Rework estimate/order for RMA 7962	5/8/25	1	9428321-1-1	5/14/25	5/21/25	5/22/25	10	Inspect -Receiving	20	Engineering - Inspection	5/13/25		0.00			
-Variform Inc	9428335	1	1	9305269-1-SF	FF8-SF-P	5/8/25	2	9428335-1-1	5/19/25	5/21/25	5/22/25	30	Form -Part Per Print (Trumpf)	40	FF Production Work Cell	5/20/25	5/20/25	2858.00	X	X	
-Tempel Steel Company	9428563	1	1	BE1040-72000	BELT E8/2 UO/U4 GSTR 5.625 SLPC	5/15/25	1	9428563-1-1	5/19/25	5/21/25	5/22/25			10	Belt - Cut / Assemble			355.00	X	X	
-Scott Pro	9423000	1	1	PMN5018TMXF	Plate Magnet	11/26/24	1	9423000-1-1	5/23/25	5/22/25	5/23/25	90	Assemble -Per Print (Heavy)	100	Shipping - Light	5/21/25		5240.00	X	X	
-Scott Pro	9423000	2	1	PMN5010TMXF	Plate Magnet	11/26/24	1	9423000-2-1	5/23/25	5/22/25	5/23/25	90	Assemble -Per Print (Heavy)	100	Shipping - Light	5/21/25		3214.00	X	X	
-Scott Pro	9423000	3	1	PMN5012TMXF	Plate Magnet	11/26/24	1	9423000-3-1	5/23/25	5/22/25	5/23/25	90	Assemble -Per Print (Heavy)	100	Shipping - Light	5/21/25		3699.00	X	X	
-Prab, Inc.	9423381	1	1	9423381-1	Dual Drum Separator System	12/9/24	1	9423381-1-1	5/7/25	5/19/25	5/23/25	100	Paint -Part	50	Tap -Part Per Print	5/19/25		41668.70	X	X	
+Prab, Inc.	9423381	1	1	9423381-1	Dual Drum Separator System	12/9/24	1	9423381-1-1	5/20/25	5/19/25	5/23/25	110	Assemble -Per Print (Heavy)	120	Shipping - Heavy	5/22/25		41668.70	X	X	
 Thortsen Magnetics Co.	9423419	1	1	9423419-1	CUSTOM MAGNETIC CONE ASSY	12/10/24	1	9423419-1-1	4/7/25	5/13/25	5/23/25	70	Bead Blast -Part	30	Tig Weld - Part Per Print	5/15/25	4/9/25	16639.20	X	X	
 Whirlpool Corporation	9425962	1	1	9425962-1	MSL 06-6-AR4	2/28/25	1	9425962-1-1	5/6/25	5/18/25	5/23/25	90	Paint -Part	30	Tap -Part Per Print	5/14/25		5850.00	X	X	
 CSI Closures	9426365	1	1	9426365-1	MD Quicktron 05 A 50mm on Duplex Stand w/FF4-SF	3/12/25	1	9426365-1-1	5/21/25	5/20/25	5/23/25	90	Paint -Part	100	Assemble -Per Print (Heavy)	5/21/25		13065.00	X	X	
-Stolle Machinery Co LLC	9426824	1	1	STS-D-A-NA-51-AAEG-SAEF-AX	C.PCRU39-15.500X007.000-.037	3/26/25	9	9426824-1-1	5/5/25	5/22/25	5/23/25	50	Assemble -Cells In Cavity	60	Grind -Od To .020 Oversize(Sh)	5/14/25	5/15/25	18306.00			
-Martin De Jesus Soriano (Tecnnova Industrial )	9427383	1	1	PMC3020FMNU	Plate Magnet	4/10/25	1	9427383-1-1	5/19/25	5/22/25	5/23/25	50	Assembly-Magnetize/Assemble	60	Tig Weld - Part Per Print	5/12/25	5/22/25	1064.00	X	X	
-Axis Pipe & Tube Co.	9427882	1	1	82-ZH036009	MAGNETIC ASSY	4/25/25	28	9427882-1-1	5/21/25	5/22/25	5/23/25	40	QT-15 - Turn Part Per Print	20	Deburr -Part 2	5/13/25	5/21/25	16100.00	X	X	
+Martin De Jesus Soriano (Tecnnova Industrial )	9427383	1	1	PMC3020FMNU	Plate Magnet	4/10/25	1	9427383-1-1	5/23/25	5/22/25	5/23/25	90	Assemble -Per Print (Heavy)	100	Shipping - Light	5/22/25		1064.00	X	X	
+Axis Pipe & Tube Co.	9427882	1	1	82-ZH036009	MAGNETIC ASSY	4/25/25	28	9427882-1-1	5/23/25	5/22/25	5/23/25	50	Form -Part Per Print (Trumpf)	60	Mill/Drill - Part PP, Willis	5/22/25		16100.00	X	X	
 Axis Pipe & Tube Co.	9427882	2	1	82-ZH000043	TAKE-UP ROD	4/25/25	2	9427882-2-1	5/23/25	5/22/25	5/23/25	20	Mill/Drill - Part PP, Willis	30	Shipping - Light	5/21/25		384.00	X	X	
 Axis Pipe & Tube Co.	9427882	3	1	CH2060D3-12-718750	CHAIN	4/25/25	2	9427882-3-1	5/23/25	5/22/25	5/23/25	10	Assemble -Per Print (Heavy)	20	Shipping - Light	5/19/25		4926.00	X	X	
-WESCO Distribution Inc - Branch 5795	9427932	1	1	BM901AT	BM901AT Ceramic Magnetic T-Rail - 12" long	4/28/25	1	9427932-1-1	5/22/25	5/22/25	5/23/25	90	Assemble -Per Print (Heavy)	100	Shipping - Light	5/21/25		414.00	X	X	
 Thortsen Magnetics Co.	9427963	1	1	43-41232	DS-1224-CR CUSTOM DRUM SEPARATOR (946982-3)	4/29/25	1	9427963-1-1	5/12/25	5/19/25	5/23/25	110	Assembly-Magnetize/Assemble	40	Mill/Drill -Part Per Print(Pl)	5/21/25		7935.20	X	X	
 Integrated Shredder Technology LLC	9428055	1	1	50-12090	SSSP-12 DIA 78 IN EFF Repair	5/1/25	1			5/22/25	5/23/25							0.00	X	X	
 Services For Plastics, Inc.	9428186	1	1	9371223-1-SF	DRAWER FILTER, 8" W/ PURGE HOPPER, STD TEMP UP TO 180°F	5/6/25	1	9428186-1-1		5/19/25	5/23/25	50	Shipping - Light			5/20/25		1208.80			
 Services For Plastics, Inc.	9428186	2	1	9371223-2-SF	DRAWER FILTER, 6" W/ PURGE HOPPER, STD TEMP UP TO 180°F	5/6/25	1	9428186-2-1	5/19/25	5/22/25	5/23/25	30	Form -Part Per Print (Trumpf)	40	FF Production Work Cell	5/20/25	5/21/25	947.20			
-Elizabeth Food	9428649	1	2	PIM-4-NE-F	PNEUMATIC INLINE MAGNET  W/ 4" OD ENDS  *FOOD GRADE*	5/19/25	1	9428649-1-2	5/22/25	5/22/25	5/23/25	10	Issue -Components	20	Gaskets - Cut / Assemble	5/21/25		6753.00	X	X	
+Elizabeth Food	9428649	1	2	PIM-4-NE-F	PNEUMATIC INLINE MAGNET  W/ 4" OD ENDS  *FOOD GRADE*	5/19/25	1	9428649-1-2		5/22/25	5/23/25	40	Shipping - Light			5/22/25		6753.00	X	X	
 BRC Rubber & Plastics Inc / Molded Divsion	9428680	1	1	BE1050-72000	BELT 7.625" E8/2 UO/U4 GSTR SLPC	5/20/25	1	9428680-1-1	5/21/25	5/22/25	5/23/25			10	Belt - Cut / Assemble			449.00	X	X	
 BRC Rubber & Plastics Inc / Molded Divsion	9428680	2	1	BE1050-96000	BELT 7.625" E8/2 UO/U4 GSTR	5/20/25	1	9428680-2-1	5/22/25	5/22/25	5/23/25			10	Belt - Cut / Assemble			562.00	X	X	
-Shick Esteve	9424730	1	1	9424730-1	PIM-4-NE-F-PROX with 4" Sch 10 ends and white gasket	1/27/25	7	9424730-1-1	5/16/25	5/25/25	5/26/25	70	Gaskets - Cut / Assemble	40	Tig Weld - Part Per Print	5/21/25		36355.20			
-Satake U.S.A. Inc.	9426220	1	1	HFS-2010-NPB-F	HF Drawer	3/7/25	5	9426220-1-1	5/14/25	5/25/25	5/26/25	30	Form -Part Per Print (Trumpf)	40	Tig Weld - Part Per Print	5/14/25	5/21/25	13859.25			
+Shick Esteve	9424730	1	1	9424730-1	PIM-4-NE-F-PROX with 4" Sch 40 ends and white gasket	1/27/25	7	9424730-1-1	5/16/25	5/25/25	5/26/25	70	Gaskets - Cut / Assemble	40	Tig Weld - Part Per Print	5/21/25	5/22/25	36355.20			
+Satake U.S.A. Inc.	9426220	1	1	HFS-2010-NPB-F	HF Drawer	3/7/25	5	9426220-1-1	5/15/25	5/25/25	5/26/25	40	Tig Weld - Part Per Print	50	Assemble -Per Print (Heavy)	5/22/25		13859.25			
 Bunge Corp.	9427315	1	1	9427315-1	HST-430-PSC  - NO PLATE MAGNETS	4/9/25	1	9427315-1-1	5/14/25	5/20/25	5/26/25	40	Deburr -Part 2	50	Bead Blast -Part	5/21/25		17556.00	X	X	
 Erat S.A. De C.V.	9428671	1	1	FF6-SF	DRAWER FILTER, 6 X 6 W/SLIDEGATE	5/20/25	1	9428671-1-1	5/23/25	5/26/25	5/26/25	10	Issue -Components	20	FF Production Work Cell	5/21/25		486.00			
 IPEG - International Plastics Equipment Group	9423373	1	1	9423373-1	FF6-SF	12/9/24	2	9423373-1-1	5/21/25	5/26/25	5/27/25	30	Saw Cut - Part To Length	40	FF Production Work Cell	5/13/25	5/21/25	1679.60			
-Weima America Inc.	9426559	1	1	9426559-1	GFC 24-235	3/18/25	1	9426559-1-1	5/9/25	5/26/25	5/27/25	60	Form -Part Per Print (Trumpf)	50	Tap -Part Per Print	5/21/25		20166.25	X	X	
-Lastique International Corp.	9426852	1	1	9426852-1	HFS-2012-PSC-NHI  CUSTOM	3/26/25	6	9426852-1-1	5/1/25	5/26/25	5/27/25	120	Assemble -Per Print (Heavy)	10	Laser Cut - Part Per Print	5/8/25	5/1/25	107064.00	X	X	
+Weima America Inc.	9426559	1	1	9426559-1	GFC 24-235	3/18/25	1	9426559-1-1	5/19/25	5/26/25	5/27/25	80	Deburr -Part 2	90	Bead Blast -Part	5/22/25	5/23/25	20166.25	X	X	
+Lastique International Corp.	9426852	1	1	9426852-1	HFS-2012-PSC-NHI  CUSTOM	3/26/25	6	9426852-1-1	5/1/25	5/26/25	5/27/25	150	Deburr -Part 2	10	Laser Cut - Part Per Print	5/22/25	5/1/25	107064.00	X	X	
 Pacific Choice Brands, LLC	9427585	1	1	9427585-1	LID-C-3 CARTRIDGE LID ASSY   PASSIVATED	4/16/25	1	9427585-1-1	5/14/25	5/26/25	5/27/25	140	Inspect -Inprocess	143	OP -Pickle and Passivate	5/15/25		5047.00			
 Global Plastics Equipment & Services LLC	9427594	1	2	9427594-1	6" DRAWER ASSY, HI TEMP INSERT	4/16/25	1	9427594-1-2	5/20/25	5/26/25	5/27/25	30	Form -Part Per Print (Trumpf)	40	FF Production Work Cell	5/20/25	5/21/25	863.40	X	X	
-Processing Technologies	9428071	2	1	9423662-1	FF10 DRW FILTER  CUSTOM	5/1/25	1	9428071-2-1	5/15/25	5/26/25	5/27/25	70	Assemble -Per Print (Heavy)	30	Form -Part Per Print (Trumpf)	5/19/25		1751.00			
+Processing Technologies	9428071	2	1	9423662-1	FF10 DRW FILTER  CUSTOM	5/1/25	1	9428071-2-1	5/19/25	5/26/25	5/27/25	70	Assemble -Per Print (Heavy)	65	Paint -Part	5/19/25		1751.00			
 Processing Technologies	9428071	3	1	9428071-3	FF8  DRWR FILTER  CUSTOM	5/1/25	1	9428071-3-1	5/12/25	5/20/25	5/27/25	30	Mag Cut -Part To Length (Pc)	10	Issue -Components	5/13/25	5/12/25	976.65			
 Lastique International Corp.	9428183	1	1	ASM-36	MAGNETIC PROBE 36" OAL  NPB	5/6/25	1	9428183-1-1	5/19/25	5/26/25	5/27/25	60	Deburr -Part 2	70	Bead Blast -Part	5/21/25		551.00	X	X	
 Husky Injection Molding Systems - Jeffersonville	9428420	1	1	9423523-1	FF6-SF	5/13/25	2	9428420-1-1	5/21/25	5/26/25	5/27/25	30	Turn -Casting Per Print (25)	40	FF Production Work Cell	5/21/25	5/21/25	1833.40			
 Ardent Mills LLC	9428430	1	1	21-00137-1	SLEEVE WELDMENT	5/13/25	1			5/26/25	5/27/25							334.00	X	X	
-Interflex, LLC	9426172	1	1	638795-1	C.FCIF33-32.000X032.250-.035	3/6/25	1	9426172-1-1	5/26/25	5/25/25	5/28/25	130	Package -And Wrap	140	Shipping - Medium	5/20/25		10446.50			
-Interflex, LLC	9426172	2	1	638795-2	C.FCIF34-32.000X032.250-.035	3/6/25	1	9426172-2-1	5/23/25	5/27/25	5/28/25	110	Inspect -Final	120	Package -And Wrap	5/21/25	5/21/25	10636.90			
-Symrise/IDF / International Dehydrated Foods Inc	9427598	1	1	9310086-1-1	HFS 3010-NPB-F (w/o Magnets) Housing ONLY	4/16/25	1	9427598-1-1	5/19/25	5/26/25	5/28/25	10	Laser Cut - Part Per Print	20	Form -Part Per Print (Trumpf)	5/21/25		3750.00	X	X	
-Bruning Federle	9427855	1	1	9427855-1	Plate Magnet	4/24/25	1	9427855-1-1	5/19/25	5/27/25	5/28/25	60	Assembly-Magnetize/Assemble	40	Form -Part Per Print (Trumpf)	5/15/25		1414.40	X	X	
+Interflex, LLC	9426172	1	1	638795-1	C.FCIF33-32.000X032.250-.035	3/6/25	1	9426172-1-1		5/25/25	5/28/25	140	Shipping - Medium			5/22/25		10446.50			
+Interflex, LLC	9426172	2	1	638795-2	C.FCIF34-32.000X032.250-.035	3/6/25	1	9426172-2-1		5/27/25	5/28/25	130	Shipping - Medium			5/22/25		10636.90			
+Symrise/IDF / International Dehydrated Foods Inc	9427598	1	1	9310086-1-1	HFS 3010-NPB-F (w/o Magnets) Housing ONLY	4/16/25	1	9427598-1-1	5/20/25	5/26/25	5/28/25	20	Form -Part Per Print (Trumpf)	30	Tig Weld - Part Per Print	5/22/25	5/22/25	3750.00	X	X	
+Bruning Federle	9427855	1	1	9427855-1	Plate Magnet	4/24/25	1	9427855-1-1	5/20/25	5/27/25	5/28/25	60	Assembly-Magnetize/Assemble	50	Tig Weld - Part Per Print	5/15/25		1414.40	X	X	
 IPEG - International Plastics Equipment Group	9427938	1	1	9422368-1	FF10-SF	4/28/25	1	9427938-1-1	5/23/25	5/27/25	5/28/25	80	Assemble -Per Print (Heavy)	90	Gaskets - Cut / Assemble	5/22/25		1761.20			
 IPEG - International Plastics Equipment Group	9427938	2	1	9344039-1-SF	FF8-SF	4/28/25	3	9427938-2-1	5/28/25	5/27/25	5/28/25	40	FF Production Work Cell	50	Shipping - Light	5/21/25		2927.40			
-SA Recycling	9428010	1	1	178-66377	Hand Wheel w/KW&SS	4/30/25	1	9428010-1-1	5/22/25	5/27/25	5/28/25			10	Turn -Part Per Print			0.00	X	X	
-Jessee Equipment Manufacturing	9428020	1	1	PMN3516FMHF	Plate Magnet	4/30/25	1	9428020-1-1	5/20/25	5/26/25	5/28/25	60	Tig Weld - Part Per Print	70	Deburr -Part 2	5/21/25		2228.70	X	X	
-Davis-Standard Corp.	9428114	4	1	9428114-1	FF4600-PLS  D/S#  5381443	5/2/25	2	9428114-4-1	5/22/25	5/27/25	5/28/25	30	Water-jet Cut Part Per Print	20	Laser Cut - Part Per Print	5/20/25		2043.40	X	X	
+Jessee Equipment Manufacturing	9428020	1	1	PMN3516FMHF	Plate Magnet	4/30/25	1	9428020-1-1	5/21/25	5/26/25	5/28/25	70	Deburr -Part 2	80	Bead Blast -Part	5/23/25		2228.70	X	X	
+Davis-Standard Corp.	9428114	4	1	9428114-1	FF4600-PLS  D/S#  5381443	5/2/25	2	9428114-4-1	5/23/25	5/27/25	5/28/25	30	Water-jet Cut Part Per Print	40	FF Production Work Cell	5/20/25	5/23/25	2043.40	X	X	
 Mars Wrigley Confectionery US, LLC	9428177	1	1	918628-1	REPLACEMENT CARTRIDGE 12"	5/5/25	2	9428177-1-1	5/20/25	5/26/25	5/28/25	10	Mag Cut - Cut Tube To Length	20	Laser Weld - Part Per Print	5/16/25		1754.00	X	X	
 Services For Plastics, Inc.	9428508	1	1	9341447-3-SF	FF6-SF-NE-H-D	5/14/25	1	9428508-1-1	5/23/25	5/27/25	5/28/25	30	Turn -Casting Per Print (25)	40	FF Production Work Cell	5/21/25	5/21/25	993.60			
+IMS Company	9428756	1	1	FF6-SF	DRAWER FILTER, 6 X 6 W/SLIDEGATE	5/22/25	3	9428756-1-1	5/27/25	5/28/25	5/28/25	10	Issue -Components	20	FF Production Work Cell	5/22/25		1458.00			
+IMS Company	9428756	2	1	FF8-SF	DRAWER FILTER, 8 X 8 W/SLIDEGATE	5/22/25	1	9428756-2-1	5/27/25	5/28/25	5/28/25	10	Issue -Components	20	FF Production Work Cell	5/22/25		630.90			
+Davis-Standard Corp.	9426339	1	1	40177-SF-HT	"FF8-SF-HT                     
+STD 8"" HOUSING WITH SLIDEGATE
+NTC DRAWER WITH POLYCARB FRONT
+PNT# 001 BUNTING BLUE
+WITH DECALS AND LABELS
+DRAWER TO BE MAINTAINED WITH NUTS AND WASHERS
+D/S# 5380907"	3/12/25	2	9426339-1-1	5/22/25	5/28/25	5/29/25	20	Laser Cut - Part Per Print	30	FF Production Work Cell	5/22/25	5/16/25	2864.50	X	X	
+Wieland Recycling (was Total Metal Recycling Inc)	9426902	1	1	9426902-1	DS 20-30-NE-DR	3/27/25	1	9426902-1-1	5/19/25	5/28/25	5/29/25	30	Saw Cut - Part To Length	40	Water-jet Cut Part Per Print	5/20/25		25350.00	X	X	
+Barry Callebaut	9427969	1	1	LiD-C-4	CARTRIDGE LID ASSEMBLY	4/29/25	5	9427969-1-1	5/13/25	5/27/25	5/29/25	50	Deburr -Part 2	20	Deburr -Part 2	5/22/25	5/14/25	26065.00	X	X	
+Anchor Ingredients	9428090	1	1	TS-10P-NPB-F	GRATE SQUARE 10 TRAY STYLE  FOOD GRADE	5/1/25	1	9428090-1-1	5/22/25	5/28/25	5/29/25	40	Assemble -Per Print (Heavy)	50	Tig Weld - Part Per Print	5/22/25		1828.00	X	X	
+Sealed Air	9428189	1	1	9428189-1	FF6-SF-H with LH Purge Hopper	5/6/25	1	9428189-1-1	5/21/25	5/27/25	5/29/25	40	Mag Cut -Part To Length (Pc)	10	Issue -Components	5/19/25		1184.00	X	X	
+Sealed Air	9428189	2	1	9428189-2	FF6-SF-H with RH Purge Hopper	5/6/25	2	9428189-2-1	5/22/25	5/27/25	5/29/25	40	Mag Cut -Part To Length (Pc)	50	FF Production Work Cell	5/19/25	5/22/25	2368.00	X	X	
+Sealed Air	9428189	3	1	9428189-3	FF6-SF-H with RH Purge Hopper	5/6/25	1	9428189-3-1	5/22/25	5/27/25	5/29/25	40	Mag Cut -Part To Length (Pc)	50	FF Production Work Cell	5/19/25	5/21/25	1184.00	X	X	
+Sealed Air	9428189	4	1	9428189-4	FF6-SF-H with LH Purge Hopper	5/6/25	3	9428189-4-1	5/27/25	5/28/25	5/29/25	40	Mag Cut -Part To Length (Pc)	50	FF Production Work Cell	5/19/25	5/23/25	3552.00	X	X	
+Sealed Air	9428189	5	1	9428189-5	FF6-SF-H with LH Purge Hopper	5/6/25	1	9428189-5-1	5/22/25	5/27/25	5/29/25	40	Mag Cut -Part To Length (Pc)	50	FF Production Work Cell	5/19/25	5/21/25	1184.00	X	X	
+Sealed Air	9428189	6	1	9428189-6	FF6-SF-H with RH Purge Hopper	5/6/25	1	9428189-6-1	5/22/25	5/27/25	5/29/25	40	Mag Cut -Part To Length (Pc)	50	FF Production Work Cell	5/19/25	5/21/25	1184.00	X	X	
+Davis-Standard Corp.	9428298	2	1	34-00205	FF4200-PLS	5/8/25	2	9428298-2-1	5/20/25	5/28/25	5/29/25	30	Mig Weld - Part Per Print	40	Deburr -Part 2	5/21/25	5/21/25	4142.90	X	X	
